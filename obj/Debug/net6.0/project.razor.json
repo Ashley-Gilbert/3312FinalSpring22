@@ -16318,6 +16318,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ashle\\OneDrive\\WTAMU\\2022 Spring\\Adv Programming\\3312FinalSpring22\\Pages\\Shoes.cshtml",
+      "TargetPath": "Pages\\Shoes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ashle\\OneDrive\\WTAMU\\2022 Spring\\Adv Programming\\3312FinalSpring22\\Pages\\Purses.cshtml",
+      "TargetPath": "Pages\\Purses.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ashle\\OneDrive\\WTAMU\\2022 Spring\\Adv Programming\\3312FinalSpring22\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
